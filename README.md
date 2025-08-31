@@ -1,1 +1,1 @@
-# A collection of ROM for hi6250 user!
+# A repo that have collection of ROM for hi6250 user!
